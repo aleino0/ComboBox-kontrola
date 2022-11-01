@@ -1,0 +1,11 @@
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\bin\Debug\CheckBox_kontrola.exe.config
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\bin\Debug\CheckBox_kontrola.exe
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\bin\Debug\CheckBox_kontrola.pdb
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.Form1.resources
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.Properties.Resources.resources
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.csproj.GenerateResource.cache
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.exe
+C:\Users\linar\Documents\programiranje\New folder\CheckBox_kontrola\CheckBox_kontrola\obj\Debug\CheckBox_kontrola.pdb
